@@ -1,6 +1,6 @@
-variable "api_management_api_operation_policys" {
+variable "api_management_api_operation_policies" {
   description = <<EOT
-Map of api_management_api_operation_policys, attributes below
+Map of api_management_api_operation_policies, attributes below
 Required:
     - api_management_name
     - api_name
